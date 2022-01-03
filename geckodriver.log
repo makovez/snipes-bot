@@ -1,0 +1,151 @@
+1616775869034	geckodriver	INFO	Listening on 127.0.0.1:61162
+1616775872058	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\seby\\AppData\\Local\\Temp\\rust_mozprofileyepdoJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616775874476	Marionette	INFO	Listening on port 61173
+1616775874682	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+1616775964595	Marionette	INFO	Stopped listening on port 61173
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616775999054	geckodriver	INFO	Listening on 127.0.0.1:61395
+1616776002079	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\seby\\AppData\\Local\\Temp\\rust_mozprofileFc8351"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616776004466	Marionette	INFO	Listening on port 61404
+1616776004701	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://m.liverea.ch/releases/20210101/embed-js.js, line 2: ChunkLoadError: Loading chunk dynamic-grid failed.
+(error: https://m.liverea.ch/releases/20210101/chunks/dynamic-grid.d8d9d4a6629a45174686.bundle.js)
+JavaScript error: https://analytics.tiktok.com/i18n/pixel/sdk.js?sdkid=BT1S38TQUU2IQ2BVG150, line 11: ChunkLoadError: Loading chunk 1 failed.
+(error: https://analytics.tiktok.com/i18n/pixel/identify.js)
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+1616776017047	Marionette	INFO	Stopped listening on port 61404
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616776125705	geckodriver	INFO	Listening on 127.0.0.1:61619
+1616776128739	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\seby\\AppData\\Local\\Temp\\rust_mozprofilemKEL3z"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616776131045	Marionette	INFO	Listening on port 61629
+1616776131367	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://m.liverea.ch/releases/20210101/embed-js.js, line 2: ChunkLoadError: Loading chunk vendors~grid~news~slider failed.
+(error: https://m.liverea.ch/releases/20210101/chunks/vendors~grid~news~slider.d8d9d4a6629a45174686.bundle.js)
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+1616776141050	Marionette	INFO	Stopped listening on port 61629
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616776234044	geckodriver	INFO	Listening on 127.0.0.1:61833
+1616776237068	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\seby\\AppData\\Local\\Temp\\rust_mozprofileCrtGtr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616776239354	Marionette	INFO	Listening on port 61842
+1616776239691	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.snipes.it/cart, line 1: SyntaxError: expected expression, got ','
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+1616776376886	Marionette	INFO	Stopped listening on port 61842
+6776274541	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\seby\\AppData\\Local\\Temp\\rust_mozprofilefZdI8w"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616776277096	Marionette	INFO	Listening on port 62010
+1616776277165	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+1616776375502	Marionette	INFO	Stopped listening on port 62010
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\seby\\AppData\\Local\\Temp\\rust_mozprofileoTmbGo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616776336181	Marionette	INFO	Listening on port 62174
+1616776336231	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+1616776376270	Marionette	INFO	Stopped listening on port 62171616776376640	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\seby\\AppData\\Local\\Temp\\rust_mozprofilekQkolo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616776379250	Marionette	INFO	Listening on port 62326
+1616776379764	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+1616776421155	Marionette	INFO	Stopped listening on port 62326
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\seby\\AppData\\Local\\Temp\\rust_mozprofileP9zeEJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616776401252	Marionette	INFO	Listening on port 62449
+1616776401603	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+1616776421912	Marionette	INFO	Stopped listening on port 62441616776422433	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\seby\\AppData\\Local\\Temp\\rust_mozprofileP77J3i"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616776424752	Marionette	INFO	Listening on port 62589
+1616776425052	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+1616776507715	Marionette	INFO	Stopped listening on port 62589
+6776492687	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\seby\\AppData\\Local\\Temp\\rust_mozprofileRnslbE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616776495167	Marionette	INFO	Listening on port 62752
+1616776495313	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+1616776520835	Marionette	INFO	Stopped listening on port 62752
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616785765189	geckodriver	INFO	Listening on 127.0.0.1:50963
+1616785768406	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\seby\\AppData\\Local\\Temp\\rust_mozprofile6UbeLk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616785770836	Marionette	INFO	Listening on port 50973
+1616785771027	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://m.liverea.ch/releases/20210101/embed-js.js, line 2: ChunkLoadError: Loading chunk vendors~grid~news~slider failed.
+(error: https://m.liverea.ch/releases/20210101/chunks/vendors~grid~news~slider.d8d9d4a6629a45174686.bundle.js)
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.snipes.it/on/demandware.static/Sites-snse-SOUTH-Site/-/it_IT/v1616777762126/js/common.js, line 1: TypeError: t is undefined
+JavaScript error: https://www.snipes.it/on/demandware.static/Sites-snse-SOUTH-Site/-/it_IT/v1616777762126/js/common.js, line 1: TypeError: t is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.snipes.it/cart, line 1: SyntaxError: expected expression, got ','
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.snipes.it/cart line 1762 > injectedScript, line 1: TypeError: c is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1755: uncaught exception: [object Object]
+JavaScript error: https://www.snipes.it/on/demandware.static/Sites-snse-SOUTH-Site/-/it_IT/v1616777762126/js/common.js, line 1: TypeError: t is undefined
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1616786699490	Marionette	INFO	Stopped listening on port 50973
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

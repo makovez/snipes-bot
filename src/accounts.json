@@ -1,0 +1,30 @@
+{
+    "07568192": {
+        "email": "email",
+        "password": "password",
+        "name": "name",
+        "surname": "surname",
+        "phone" : "phone",
+        "address": {
+            "street": "street",
+            "houseNo": "houseNo",
+            "postalCode": "postalCode",
+            "city": "Roma",
+            "country": "IT"
+        }
+    },
+    "07963343": {
+        "email": "email@gmail.com",
+        "password": "password",
+        "name": "name",
+        "surname": "surname",
+        "phone" : "4545454545",
+        "address": {
+            "street": "address",
+            "houseNo": "houseNo",
+            "postalCode": "postalCode",
+            "city": "Roma",
+            "country": "IT"
+        }
+    }
+}
